@@ -19,10 +19,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-Dekstop Preview
+#### Dekstop Preview
+
 ![Dekstop Preview](./screenshoot/dekstop-preview.png)
 
-Mobile Preview
+#### Mobile Preview
+
 ![Mobile Preview](./screenshoot/mobile-preview.png)
 
 ### Links
