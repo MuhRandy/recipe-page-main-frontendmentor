@@ -43,7 +43,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-In this challenge, I learn how to change or wrapping specific words with HTML tag I want. This is useful when there repetitive word with similiar characteristics that we need to change or wrap with specific HTML tag. In my case, I need to wrap word with characteristics that before ':' in <li> with <strong> tag so it become bold and semantic.
+In this challenge, I learn how to change or wrapping specific words with HTML tag I want. This is useful when there repetitive word with similiar characteristics that we need to change or wrap with specific HTML tag. In my case, I need to wrap word with characteristics that before ':' in `<li>` with `<strong>` tag so it become bold and semantic.
 
 To see how I do that, this is what I wrote on my javascript:
 
