@@ -19,13 +19,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
+Dekstop Preview
 ![Dekstop Preview](./screenshoot/dekstop-preview.png)
+
+Mobile Preview
 ![Mobile Preview](./screenshoot/mobile-preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/MuhRandy/recipe-page-main-frontendmentor)
+- Live Site URL: [Github Pages](https://muhrandy.github.io/recipe-page-main-frontendmentor/)
 
 ## My process
 
@@ -46,7 +49,7 @@ To see how I do that, this is what I wrote on my javascript:
 // first I initialize the DOM that I need, in this case <li> elements. this listItems will store HTML collection of <li> elements
 const listItems = document.getElementsByTagName("li");
 
-// because listItem is HTML collection, I need to looping it to change or manipulate each element
+// because listItems is HTML collection, I need to looping it to change or manipulate each element
 for (const i in listItems) {
   const listItem = listItems[i];
   // this regex will become the search key for what word with characteristic I want, that is find any word and stop when you find ':'
@@ -88,6 +91,6 @@ Dont know yet
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Muhammad Randy](https://mrandy-portfolio.web.app/)
+- Frontend Mentor - [@MuhRandy](https://www.frontendmentor.io/profile/MuhRandy)
+- Twitter - [@RandyThz](https://twitter.com/RandyThz)
